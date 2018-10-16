@@ -1,0 +1,13 @@
+h1{
+  font-size: 30px!important;
+  text-align: center;
+}
+.nav-wrapper{
+  background-color:#26a69a !important;
+}
+p{
+  text-align: center;
+}
+.nav-text{
+  text-transform: uppercase;
+}

@@ -1,0 +1,65 @@
+.round-container {
+    width: 17rem;
+    height: 17rem;
+    align-self: center;
+    border-radius: 100%;
+    margin: 2.3rem auto 2.5rem auto;
+    overflow: hidden;
+    position: relative;
+}
+.round-container img {
+    width: initial;
+    height: inherit;
+    max-width: none;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+
+}
+h1{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+.icones-sociais li {
+    display: inline-block;
+
+
+}
+.icones-sociais a {
+    width: 64px;
+    height: 64px;
+    display: block;
+    text-indent: -99999px;
+}
+.icones-sociais{
+  text-align: center;
+}
+.facebook{
+  background-image: url(../../../assets/facebook2.png);
+}
+.twitter{
+  background-image: url(../../../assets/Twitter-icon.png);
+}
+.linkedin{
+  background-image: url(../../../assets/inkedin.png);
+}
+.instagran{
+  background-image: url(../../../assets/instagram.jpg);
+}
+h1{
+  font-size: 30px!important;
+  text-align: center;
+}
+.nav-wrapper{
+  background-color:#26a69a !important;
+}
+.nav-text{
+  text-transform: uppercase;
+}
+.Contato li{
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+}
